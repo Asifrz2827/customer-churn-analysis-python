@@ -142,7 +142,7 @@ Churn Analysis.ipynb
 
 ## 👨‍💻 Author
 
-**Md Asif Raza**
+**Md Asif Raja**
 
 Aspiring Data Analyst
 
